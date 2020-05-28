@@ -1,3 +1,339 @@
+<table class="vertical-navbox nowraplinks hlist">
+<tbody>
+<tr>
+<th><a title="Periodic table" href="https://en.wikipedia.org/wiki/Periodic_table">Periodic table</a></th>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">Periodic table forms</div>
+<div class="NavContent">
+<ul>
+<li><a title="Periodic table" href="https://en.wikipedia.org/wiki/Periodic_table#Overview">18-column</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Periodic table" href="https://en.wikipedia.org/wiki/Periodic_table#The_long-_or_32-column_table">32-column</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Alternative periodic tables" href="https://en.wikipedia.org/wiki/Alternative_periodic_tables">Alternative forms</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Alternative periodic tables" href="https://en.wikipedia.org/wiki/Alternative_periodic_tables#Left_step_periodic_table_(Janet,_1928)">Janet's left step</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Extended periodic table" href="https://en.wikipedia.org/wiki/Extended_periodic_table">Beyond period 7</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Extended periodic table" href="https://en.wikipedia.org/wiki/Extended_periodic_table#Aufbau_model">Aufbau</a></li>
+<li><a class="mw-redirect" title="Fricke model" href="https://en.wikipedia.org/wiki/Fricke_model">Fricke</a></li>
+<li><a class="mw-redirect" title="Pyykk&ouml; model" href="https://en.wikipedia.org/wiki/Pyykk%C3%B6_model">Pyykk&ouml;</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame">
+<div class="NavHead"><a title="History of the periodic table" href="https://en.wikipedia.org/wiki/History_of_the_periodic_table">Periodic table history</a></div>
+<div class="NavContent">
+<ul>
+<li><a title="Dmitri Mendeleev" href="https://en.wikipedia.org/wiki/Dmitri_Mendeleev#Periodic_table">Dmitri Mendeleev</a>&nbsp;
+<ul>
+<li><a title="Mendeleev's predicted elements" href="https://en.wikipedia.org/wiki/Mendeleev%27s_predicted_elements">predictions</a></li>
+</ul>
+</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a class="mw-selflink selflink">Discovery of elements</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Naming of chemical elements" href="https://en.wikipedia.org/wiki/Naming_of_chemical_elements">Naming</a>&nbsp;&amp;&nbsp;<a title="List of chemical element name etymologies" href="https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies">etymology</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li>
+<ul>
+<li><a title="List of places used in the names of chemical elements" href="https://en.wikipedia.org/wiki/List_of_places_used_in_the_names_of_chemical_elements">for places</a></li>
+<li><a title="List of people whose names are used in chemical element names" href="https://en.wikipedia.org/wiki/List_of_people_whose_names_are_used_in_chemical_element_names">for people</a></li>
+<li><a title="List of chemical elements naming controversies" href="https://en.wikipedia.org/wiki/List_of_chemical_elements_naming_controversies">controversies</a></li>
+</ul>
+</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li>(<a title="Chemical elements in East Asian languages" href="https://en.wikipedia.org/wiki/Chemical_elements_in_East_Asian_languages">in East Asia</a>)</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Systematic element name" href="https://en.wikipedia.org/wiki/Systematic_element_name">Systematic element names</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="center"><strong><a title="Names for sets of chemical elements" href="https://en.wikipedia.org/wiki/Names_for_sets_of_chemical_elements">Sets of elements</a></strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">By periodic table structure</div>
+<div class="NavContent">
+<ul>
+<li><strong><a title="Group (periodic table)" href="https://en.wikipedia.org/wiki/Group_(periodic_table)">Groups</a>&nbsp;(1&ndash;18)</strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a class="mw-redirect" title="Group 1 element" href="https://en.wikipedia.org/wiki/Group_1_element"><span title="Group 1 &mdash; hydrogen group, all s&sup1; elements">1</span></a>&nbsp;(<a title="Alkali metal" href="https://en.wikipedia.org/wiki/Alkali_metal"><span class="nowrap" title="Part of group 1: Li, Na, K, Rb, Cs, Fr &mdash; lithium family, s&sup1; metals">alkali metals</span></a>)</li>
+<li><a title="Alkaline earth metal" href="https://en.wikipedia.org/wiki/Alkaline_earth_metal"><span class="nowrap" title="Group 2: Be, Mg, Ca, Sr, Ba, Ra &mdash; beryllium group, s&sup2; metals">2&nbsp;<em>(alkaline earth metals)</em></span></a></li>
+<li><a title="Group 3 element" href="https://en.wikipedia.org/wiki/Group_3_element"><span title="Group 3: Sc, Y&hellip; &mdash; scandium group, s&sup2; d&sup1; metals">3</span></a></li>
+<li><a title="Group 4 element" href="https://en.wikipedia.org/wiki/Group_4_element"><span title="Group 4: Ti, Zr, Hf, Rf &mdash; titanium and analogs, transition metals with 4 valence electrons">4</span></a></li>
+<li><a title="Group 5 element" href="https://en.wikipedia.org/wiki/Group_5_element"><span title="Group 5: V, Nb, Ta, Db &mdash; vanadium and analogs, transition metals with 5 valence electrons">5</span></a></li>
+<li><a title="Group 6 element" href="https://en.wikipedia.org/wiki/Group_6_element"><span title="Group 6: Cr, Mo, W, Sg &mdash; chromium and analogs, transition metals with 6 valence electrons">6</span></a></li>
+<li><a title="Group 7 element" href="https://en.wikipedia.org/wiki/Group_7_element"><span title="Group 7: Mn, Tc, Re, Bh &mdash; manganese and analogs, transition metals with 7 valence electrons">7</span></a></li>
+<li><a title="Group 8 element" href="https://en.wikipedia.org/wiki/Group_8_element"><span title="Group 8: Fe, Ru, Os, Hs &mdash; iron and analogs, transition metals with 8 valence electrons">8</span></a></li>
+<li><a title="Group 9 element" href="https://en.wikipedia.org/wiki/Group_9_element"><span title="Group 9: Co, Rh, Ir, Mt &mdash; cobalt and analogs, transition metals with 9 valence electrons">9</span></a></li>
+<li><a title="Group 10 element" href="https://en.wikipedia.org/wiki/Group_10_element"><span title="Group 10: Ni, Pd, Pt, Ds &mdash; nickel and analogs, transition metals with 10 valence electrons">10</span></a></li>
+<li><a title="Group 11 element" href="https://en.wikipedia.org/wiki/Group_11_element"><span title="Group 11: Cu, Ag, Au, Rg &mdash; coinage metals, transition metals with 11 valence electrons">11</span></a></li>
+<li><a title="Group 12 element" href="https://en.wikipedia.org/wiki/Group_12_element"><span title="Group 12: Zn, Cd, Hg, Cn &mdash; zinc group, s&sup2; d&sup1;⁰ metals">12</span></a></li>
+<li><a title="Boron group" href="https://en.wikipedia.org/wiki/Boron_group"><span title="Group 13: B, Al, Ga, In, Tl, Nh &mdash; boron group, s&sup2; p&sup1; elements">13</span></a></li>
+<li><a title="Carbon group" href="https://en.wikipedia.org/wiki/Carbon_group"><span title="Group 14: C, Si, Ge, Sn, Pb, Fl &mdash; carbon group, s&sup2; p&sup2; elements">14</span></a></li>
+<li><a title="Pnictogen" href="https://en.wikipedia.org/wiki/Pnictogen"><span class="nowrap" title="Group 15: N, P, As, Sb, Bi, Mc &mdash; nitrogen group, s&sup2; p&sup3; elements">15&nbsp;<em>(pnictogens)</em></span></a></li>
+<li><a title="Chalcogen" href="https://en.wikipedia.org/wiki/Chalcogen"><span class="nowrap" title="Group 16: O, S, Se, Te, Po, Lv &mdash; oxygen group, s&sup2; p⁴ elements">16&nbsp;<em>(chalcogens)</em></span></a></li>
+<li><a title="Halogen" href="https://en.wikipedia.org/wiki/Halogen"><span class="nowrap" title="Group 17: F, Cl, Br, I, At, Ts &mdash; fluorine group, s&sup2; p⁵ elements">17&nbsp;<em>(halogens)</em></span></a></li>
+<li><a title="Noble gas" href="https://en.wikipedia.org/wiki/Noble_gas"><span class="nowrap" title="Group 18: He, Ne, Ar, Kr, Xe, Rn, Og &mdash; elements having a complete valence shell">18&nbsp;<em>(noble gases)</em></span></a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Period (periodic table)" href="https://en.wikipedia.org/wiki/Period_(periodic_table)">Periods</a>&nbsp;(1&ndash;7, ...)</strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Period 1 element" href="https://en.wikipedia.org/wiki/Period_1_element"><span title="Period 1: H, He,&emsp;Z = 1&ndash;2">1</span></a></li>
+<li><a title="Period 2 element" href="https://en.wikipedia.org/wiki/Period_2_element"><span title="Period 2: Li &hellip; Ne,&emsp;Z = 3&ndash;10">2</span></a></li>
+<li><a title="Period 3 element" href="https://en.wikipedia.org/wiki/Period_3_element"><span title="Period 3: Na &hellip; Ar,&emsp;Z = 11&ndash;18">3</span></a></li>
+<li><a title="Period 4 element" href="https://en.wikipedia.org/wiki/Period_4_element"><span title="Period 4: K &hellip; Kr,&emsp;Z = 19&ndash;36">4</span></a></li>
+<li><a title="Period 5 element" href="https://en.wikipedia.org/wiki/Period_5_element"><span title="Period 5: Rb &hellip; Xe,&emsp;Z = 37&ndash;54">5</span></a></li>
+<li><a title="Period 6 element" href="https://en.wikipedia.org/wiki/Period_6_element"><span title="Period 6: Cs &hellip; Rn,&emsp;Z = 55&ndash;86">6</span></a></li>
+<li><a title="Period 7 element" href="https://en.wikipedia.org/wiki/Period_7_element"><span title="Period 7: Fr &hellip; Og,&emsp;Z = 87&ndash;118">7</span></a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Extended periodic table" href="https://en.wikipedia.org/wiki/Extended_periodic_table">8+</a>&nbsp;
+<ul>
+<li><a title="Extended periodic table" href="https://en.wikipedia.org/wiki/Extended_periodic_table#Aufbau_model">Aufbau</a></li>
+<li><a class="mw-redirect" title="Fricke model" href="https://en.wikipedia.org/wiki/Fricke_model">Fricke</a></li>
+<li><a class="mw-redirect" title="Pyykk&ouml; model" href="https://en.wikipedia.org/wiki/Pyykk%C3%B6_model">Pyykk&ouml;</a></li>
+</ul>
+</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Block (periodic table)" href="https://en.wikipedia.org/wiki/Block_(periodic_table)">Blocks</a>&nbsp;(s, p, d, f, ...)</strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li>
+<ul>
+<li><a title="Atomic orbital" href="https://en.wikipedia.org/wiki/Atomic_orbital">Atomic orbitals</a></li>
+<li><a title="Aufbau principle" href="https://en.wikipedia.org/wiki/Aufbau_principle">Aufbau principle</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">By&nbsp;<a title="Properties of metals, metalloids and nonmetals" href="https://en.wikipedia.org/wiki/Properties_of_metals,_metalloids_and_nonmetals">metallic classification</a></div>
+<div class="NavContent">
+<ul>
+<li><strong><a title="Metal" href="https://en.wikipedia.org/wiki/Metal">Metals</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Alkali metal" href="https://en.wikipedia.org/wiki/Alkali_metal">alkali</a></li>
+<li><a title="Alkaline earth metal" href="https://en.wikipedia.org/wiki/Alkaline_earth_metal">alkaline earth</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Transition metal" href="https://en.wikipedia.org/wiki/Transition_metal">transition</a></li>
+<li><a title="Post-transition metal" href="https://en.wikipedia.org/wiki/Post-transition_metal">post-transition</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Lanthanide" href="https://en.wikipedia.org/wiki/Lanthanide">lanthanide</a></li>
+<li><a title="Actinide" href="https://en.wikipedia.org/wiki/Actinide">actinide</a>&nbsp;(<a class="mw-redirect" title="Superactinide" href="https://en.wikipedia.org/wiki/Superactinide">superactinide</a>)</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Metalloid" href="https://en.wikipedia.org/wiki/Metalloid">Metalloids</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li>
+<ul>
+<li><a title="Dividing line between metals and nonmetals" href="https://en.wikipedia.org/wiki/Dividing_line_between_metals_and_nonmetals">dividing metals &amp; nonmetals</a></li>
+</ul>
+</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><strong><a title="Nonmetal" href="https://en.wikipedia.org/wiki/Nonmetal">Nonmetals</a></strong></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a class="mw-redirect" title="Reactive nonmetal" href="https://en.wikipedia.org/wiki/Reactive_nonmetal">reactive nonmetals</a></li>
+<li><a title="Noble gas" href="https://en.wikipedia.org/wiki/Noble_gas">noble gases</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead">By other characteristics</div>
+<div class="NavContent">
+<ul>
+<li><a title="Coinage metals" href="https://en.wikipedia.org/wiki/Coinage_metals">Coinage metals</a></li>
+<li><a title="Platinum group" href="https://en.wikipedia.org/wiki/Platinum_group">Platinum-group metals</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Precious metal" href="https://en.wikipedia.org/wiki/Precious_metal">Precious metals</a></li>
+<li><a title="Refractory metals" href="https://en.wikipedia.org/wiki/Refractory_metals">Refractory metals</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Heavy metals" href="https://en.wikipedia.org/wiki/Heavy_metals">Heavy metals</a></li>
+<li><a title="Light metal" href="https://en.wikipedia.org/wiki/Light_metal">Light metals</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Native metal" href="https://en.wikipedia.org/wiki/Native_metal">Native metals</a></li>
+<li><a title="Noble metal" href="https://en.wikipedia.org/wiki/Noble_metal">Noble metals</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Main-group element" href="https://en.wikipedia.org/wiki/Main-group_element">Main-group elements</a></li>
+<li><a title="Rare-earth element" href="https://en.wikipedia.org/wiki/Rare-earth_element">Rare-earth elements</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Transuranium element" href="https://en.wikipedia.org/wiki/Transuranium_element">Transuranium</a>,&nbsp;<a class="mw-redirect" title="Transplutonium element" href="https://en.wikipedia.org/wiki/Transplutonium_element">transplutonium</a>&nbsp;elements</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Major actinide" href="https://en.wikipedia.org/wiki/Major_actinide">Major</a>,&nbsp;<a title="Minor actinide" href="https://en.wikipedia.org/wiki/Minor_actinide">minor</a>&nbsp;&amp;&nbsp;<a class="mw-redirect" title="Transactinide element" href="https://en.wikipedia.org/wiki/Transactinide_element">trans-</a>&nbsp;actinides</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="center"><strong><a title="Chemical element" href="https://en.wikipedia.org/wiki/Chemical_element">Elements</a></strong></div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead"><a title="List of chemical elements" href="https://en.wikipedia.org/wiki/List_of_chemical_elements">List of chemical elements</a></div>
+<div class="NavContent">
+<ul>
+<li><a title="Abundance of the chemical elements" href="https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements">by abundance</a>&nbsp;(<a title="Composition of the human body" href="https://en.wikipedia.org/wiki/Composition_of_the_human_body">in human body</a>)</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="List of elements by atomic properties" href="https://en.wikipedia.org/wiki/List_of_elements_by_atomic_properties">by atomic properties</a></li>
+<li><a title="List of elements by stability of isotopes" href="https://en.wikipedia.org/wiki/List_of_elements_by_stability_of_isotopes">by isotope stability</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a class="mw-redirect" title="List of world production chemical elements" href="https://en.wikipedia.org/wiki/List_of_world_production_chemical_elements">by annual production</a></li>
+<li><a title="Chemical symbol" href="https://en.wikipedia.org/wiki/Chemical_symbol">by symbol</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame7" class="NavFrame collapsed">
+<div class="NavHead"><a title="Chemical element" href="https://en.wikipedia.org/wiki/Chemical_element#Properties">Properties of elements</a></div>
+<div class="NavContent">
+<ul>
+<li><a class="mw-redirect" title="Atomic weight" href="https://en.wikipedia.org/wiki/Atomic_weight">Atomic weight</a></li>
+<li><a title="Periodic table (crystal structure)" href="https://en.wikipedia.org/wiki/Periodic_table_(crystal_structure)">Crystal structure</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li>Electron&nbsp;<a title="Electron affinity" href="https://en.wikipedia.org/wiki/Electron_affinity">affinity</a></li>
+<li><a title="Electron configuration" href="https://en.wikipedia.org/wiki/Electron_configuration">configuration</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Electronegativity" href="https://en.wikipedia.org/wiki/Electronegativity">Electronegativity</a>&nbsp;(<a title="Electronegativity" href="https://en.wikipedia.org/wiki/Electronegativity#Allen_electronegativity">Allen</a>,&nbsp;<a title="Electronegativity" href="https://en.wikipedia.org/wiki/Electronegativity#Pauling_electronegativity">Pauling</a>)</li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Goldschmidt classification" href="https://en.wikipedia.org/wiki/Goldschmidt_classification">Goldschmidt classification</a></li>
+</ul>
+<div>&nbsp;</div>
+<ul>
+<li><a title="Mineral (nutrient)" href="https://en.wikipedia.org/wiki/Mineral_(nutrient)">Nutrition</a></li>
+<li><a title="Valence (chemistry)" href="https://en.wikipedia.org/wiki/Valence_(chemistry)">Valence</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame8" class="NavFrame collapsed">
+<div class="NavHead">Data pages for elements</div>
+<div class="NavContent">
+<ul>
+<li><a title="Abundances of the elements (data page)" href="https://en.wikipedia.org/wiki/Abundances_of_the_elements_(data_page)">Abundance</a></li>
+<li><a title="Atomic radii of the elements (data page)" href="https://en.wikipedia.org/wiki/Atomic_radii_of_the_elements_(data_page)">Atomic radius</a></li>
+<li><a title="Boiling points of the elements (data page)" href="https://en.wikipedia.org/wiki/Boiling_points_of_the_elements_(data_page)">Boiling point</a></li>
+<li><a title="Critical points of the elements (data page)" href="https://en.wikipedia.org/wiki/Critical_points_of_the_elements_(data_page)">Critical point</a></li>
+<li><a title="Densities of the elements (data page)" href="https://en.wikipedia.org/wiki/Densities_of_the_elements_(data_page)">Density</a></li>
+<li><a title="Elastic properties of the elements (data page)" href="https://en.wikipedia.org/wiki/Elastic_properties_of_the_elements_(data_page)">Elasticity</a></li>
+<li><a title="Electrical resistivities of the elements (data page)" href="https://en.wikipedia.org/wiki/Electrical_resistivities_of_the_elements_(data_page)">Electrical resistivity</a></li>
+<li>Electron&nbsp;<a title="Electron affinity (data page)" href="https://en.wikipedia.org/wiki/Electron_affinity_(data_page)">affinity</a>&nbsp;/&nbsp;<a title="Electron configurations of the elements (data page)" href="https://en.wikipedia.org/wiki/Electron_configurations_of_the_elements_(data_page)">configuration</a></li>
+<li><a title="Electronegativities of the elements (data page)" href="https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)">Electronegativity</a></li>
+<li><a title="Hardnesses of the elements (data page)" href="https://en.wikipedia.org/wiki/Hardnesses_of_the_elements_(data_page)">Hardness</a></li>
+<li>Heat&nbsp;<a title="Heat capacities of the elements (data page)" href="https://en.wikipedia.org/wiki/Heat_capacities_of_the_elements_(data_page)">capacity</a>&nbsp;/&nbsp;<a title="Heats of fusion of the elements (data page)" href="https://en.wikipedia.org/wiki/Heats_of_fusion_of_the_elements_(data_page)">of&nbsp;fusion</a>&nbsp;/&nbsp;<a title="Heats of vaporization of the elements (data page)" href="https://en.wikipedia.org/wiki/Heats_of_vaporization_of_the_elements_(data_page)">of&nbsp;vaporization</a></li>
+<li><a title="Ionization energies of the elements (data page)" href="https://en.wikipedia.org/wiki/Ionization_energies_of_the_elements_(data_page)">Ionization energy</a></li>
+<li><a title="Melting points of the elements (data page)" href="https://en.wikipedia.org/wiki/Melting_points_of_the_elements_(data_page)">Melting point</a></li>
+<li><a class="mw-redirect" title="List of oxidation states of the elements" href="https://en.wikipedia.org/wiki/List_of_oxidation_states_of_the_elements">Oxidation state</a></li>
+<li><a class="mw-redirect" title="Speeds of sound of the elements (data page)" href="https://en.wikipedia.org/wiki/Speeds_of_sound_of_the_elements_(data_page)">Speed of sound</a></li>
+<li>Thermal&nbsp;<a title="Thermal conductivities of the elements (data page)" href="https://en.wikipedia.org/wiki/Thermal_conductivities_of_the_elements_(data_page)">conductivity</a>&nbsp;/&nbsp;<a title="Thermal expansion coefficients of the elements (data page)" href="https://en.wikipedia.org/wiki/Thermal_expansion_coefficients_of_the_elements_(data_page)">expansion&nbsp;coefficient</a></li>
+<li><a title="Vapor pressures of the elements (data page)" href="https://en.wikipedia.org/wiki/Vapor_pressures_of_the_elements_(data_page)">Vapor pressure</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <h2>Timeline of chemical element discoveries </h2>
 
 <h2><span id="Ancient_discoveries" class="mw-headline">Ancient discoveries</span></h2>
