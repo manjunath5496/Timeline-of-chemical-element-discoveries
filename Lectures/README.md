@@ -5,7 +5,7 @@
 <li><a href="#course4">Separation Processes for Biochemical Products</a></li>
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
-<li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
+<li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
 <li><a href="#course8">Neurotechnology in Action</a></li>
 <li><a href="#course9">Brain Structure and Its Origins</a></li>
 <li><a href="#course10">Systems Neuroscience Lab</a></li>
@@ -913,3 +913,90 @@
 </tbody>
 </table>
 </br>
+<h2 id="course7">Integrated Chemical Engineering Topics I: Process Control by Design</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Overview, Aims of Course, Shower Process, Feedback Structure</td>
+<td headers="col3">(<a href="notes_1_shower.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Material and Energy Balance Model, Linearizing Equations</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Scaled Deviation Variables, Matrix Operations</td>
+<td headers="col3">(<a href="notes_1a_matrix.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Relative Gain Array, Variable Pairing</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Disturbance Cost, Manipulated Variable Sizing</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Proportional Control Algorithm, Dynamic Simulation</td>
+<td headers="col3">(<a href="notes_2_simulatn.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Simulation Results, Offset Phenomenon, Limitations of Linear Model</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Comparing RGA, DC, and Simulation Results</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Review the Design Process, Overview of Detailed Design Process</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Heat Exchanger Network, Heat Recovery Scheme</td>
+<td headers="col3">(<a href="notes_3_hx_ntwrk.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Steady-state Model, Numerical Linearization</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computing RGA and DC for Network</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Modified Schemes to Improve Controllability of Network</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Updating RGA and DC for Process Dynamics</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Review the Design Process (again)</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Process Simulators</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Beyond the Scope &ndash; What These Methods Miss</td>
+<td headers="col3">(<a href="note_4_last_topc.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">TBA</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
