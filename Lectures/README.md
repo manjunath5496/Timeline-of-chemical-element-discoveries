@@ -7,7 +7,7 @@
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
-<li><a href="#course9">Brain Structure and Its Origins</a></li>
+<li><a href="#course9">Synthesis of Polymers</a></li>
 <li><a href="#course10">Systems Neuroscience Lab</a></li>
 <li><a href="#course11">Developmental Neurobiology</a></li>
 <li><a href="#course12">Animal Behavior</a></li>
@@ -1051,3 +1051,311 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">Synthesis of Polymers</h2>
+
+<table>
+<thead></thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<p>Course Overview</p>
+<p>Polymer Design and Synthesis</p>
+<p>Reaction Types and Processes</p>
+<p>Introduction to Step Growth</p>
+</td>
+<td>(<a href="1/lec01_09062006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Step Growth Polymerization</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+<p>Molecular Weight (MW) Control</p>
+<p>Molecular Weight Distribution (MWD) in Equilibrium Step Condensation Polymerizations</p>
+<p>Interchange Reactions: Effects on Processing and Product</p>
+<p>Application Example: Common Polyesters</p>
+</td>
+<td>(<a href="1/lec02_09082006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>
+<p>Step Growth Polymerization</p>
+<p>Types of Monomers</p>
+<p>Kinetics and Equilibrium Considerations</p>
+<p>Closed vs. Open Systems</p>
+</td>
+<td>(<a href="1/lec03_09112006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>
+<p>Common Processing Approaches</p>
+<p>Near-equilibrium vs. Far from Equilibrium</p>
+<p>Homogeneous Solution and Bulk Polymerization</p>
+</td>
+<td>(<a href="1/lec04_09132006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>
+<p>Interfacial Polymerizations</p>
+<p>Application Examples: Polyamides</p>
+</td>
+<td>(<a href="1/lec05_09152006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+<p>Other Polymers of Interest Obtained by Step-Growth</p>
+<p>Polyaramids</p>
+<p>Polyimides</p>
+<p>Segmented and Block Copolymers from Step Condensation Methods</p>
+</td>
+<td>(<a href="1/lec06_09182006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>
+<p>Crosslinking and Branching</p>
+<p>Network Formation and Gelation</p>
+<p>Carothers Equation: Pn Approach</p>
+</td>
+<td>(<a href="1/lec07_09202006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>
+<p>Network Formation</p>
+<p>Statistical Approach: Pw Approach</p>
+<p>A Word on MWD for Nonlinear Polymerizations</p>
+</td>
+<td>(<a href="1/lec08_09222006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>
+<p>Step-by-Step Approaches I: Polypeptide Synthesis: Examples from Biology</p>
+<p>Step-by-Step Approaches II: Dendrimers, Traditional Convergent and Divergent Routes</p>
+<p>New "one-pot" Approaches to Hyperbranced Species</p>
+</td>
+<td>(<a href="1/lec09_09272006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Free Radical Chain Polymerization</strong></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Introduction to Radical Polymerization</td>
+<td>(<a href="1/lec10_10022006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>
+<p>Radical Polymerization</p>
+<p>Homogeneous Reaction Rate Kinetics</p>
+</td>
+<td>(<a href="1/lec11_10042006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>
+<p>Free Radical Kinetic Chain Length</p>
+<p>MWD</p>
+<p>Chain Transfer</p>
+<p>Energetics</p>
+</td>
+<td>(<a href="1/lec12_10062006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>13</td>
+<td>
+<p>Thermodynamics of Free Radical Polymerizations</p>
+<p>Ceiling T's</p>
+<p>Tromsdorff Effect</p>
+<p>Instantaneous P<sub>n</sub></p>
+</td>
+<td>(<a href="1/lec13_10112006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Processing Approaches: Emulsion Polymerization Processes</td>
+<td>(<a href="1/lec14_10132006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>15</td>
+<td>
+<p>Processing Approaches: Suspension (Bead) Polymerization Processes</p>
+<p>Polyvinyl Chloride Via Precipitation Polymerization</p>
+<p>Polyethylene Via Radical Polymerization</p>
+</td>
+<td>(<a href="1/lec15_10162006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>16</td>
+<td>
+<p>Ziegler-Natta Catalysis</p>
+<p>Stereochemistry of Polymers</p>
+</td>
+<td>(<a href="1/lec16_10182006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Stereoregular Polymerizations</td>
+<td>(<a href="1/lec17_10202006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Radical Copolymerization: Alternating to Block Copolymers</td>
+<td>(<a href="1/lec18_10232006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Ionic Polymerization</strong></td>
+</tr>
+<tr>
+<td>19</td>
+<td>
+<p>Metallocene Chemistry</p>
+<p>Introduction to New Developments from Brookhart, et al.</p>
+</td>
+<td>(<a href="1/lec19_10272006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>20</td>
+<td>
+<p>Introduction to Anionic Polymerization</p>
+<p>Monomers Applicable to Anionic Methods</p>
+<p>Kinetics of "Nonliving" Anionic Polymerization</p>
+</td>
+<td>(<a href="1/lec20_10302006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>21</td>
+<td>
+<p>Living Anionic Polymerization</p>
+<p>Effects of Initiator and Solvent</p>
+</td>
+<td>(<a href="1/lec21_11012006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Anionic Block Copolymerization</td>
+<td>(<a href="1/lec22_11032006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>23</td>
+<td>
+<p>Anionic Ring Opening Polymerization</p>
+<p>End Group Functionalization</p>
+<p>Telechelic Oligomers and Novel Architectures Using Coupling Techniques</p>
+</td>
+<td>(<a href="1/lec23_11062006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>24</td>
+<td>
+<p>Introduction to Cationic Polymerization</p>
+<p>Monomers</p>
+<p>Kinetics</p>
+</td>
+<td>(<a href="1/lec24_11082006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>25</td>
+<td>
+<p>"Living" Cationic Polymerizations</p>
+<p>Examples of Cationic Polymerization</p>
+<p>Isobutyl Rubber Synthesis</p>
+<p>Polyvinyl Ethers</p>
+</td>
+<td>(<a href="1/lec25_11132006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>26</td>
+<td>
+<p>Anionic Ring Opening Polymerization</p>
+<p>Cationic Ring Opening Polymerization</p>
+<p>Other Ring Opening Polymerizations</p>
+</td>
+<td>(<a href="1/lec26_11152006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Polysiloxanes, Lactams, etc.</td>
+<td>(<a href="1/lec27_11172006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Polymer Functionalization and Modification</strong></td>
+</tr>
+<tr>
+<td>28</td>
+<td>
+<p>Introduction to Polymer Functionalization: Motivations, Yield, Crystallinity, Solubility Issues</p>
+<p>&nbsp;</p>
+Common Functionalization Approaches</td>
+<td>(<a href="1/lec28_11272006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Functionalization Case Studies: Biomaterials Systems, Liquid Crystal (LC) Polymers</td>
+<td>(<a href="1/lec29_11292006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Less Traditional Approaches to Polymer Synthesis</strong></td>
+</tr>
+<tr>
+<td>30</td>
+<td>
+<p>Surface Functionalization of Polymers, Graft Copolymerization</p>
+<p>Approaches to Making Comb and Graft Architectures</p>
+<p>Grafting onto Existing Polymer Surfaces<br />Surface Engineering Using Graft Copolymers</p>
+</td>
+<td>(<a href="1/lec30_12012006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>31</td>
+<td>
+<p>"Living" Free Radical Approaches: Stable Free Radical Polymerization</p>
+<p>Atom Transfer Radical Polymerization (ATRP)</p>
+</td>
+<td>(<a href="1/lec31_12042006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>32</td>
+<td>
+<p>ATRP</p>
+<p>RAFT and Other New Methods</p>
+<p>Ring Opening Metathesis Polymerization (ROMP)</p>
+</td>
+<td>(<a href="1/lec32_12062006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>33</td>
+<td>
+<p>ROMP</p>
+<p>Oxidative Coupling</p>
+<p>Electrochemical</p>
+<p>Polymerizations</p>
+<p>Case Study: Electro-active Polymers</p>
+</td>
+<td>(<a href="1/lec33_12082006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Inorganic Polymer Synthesis</td>
+<td>(<a href="1/lec34_12112006.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>35</td>
+<td>
+<p>Macromolecular Systems Via Secondary Bonding: Use of H-bonding and Ionic Charge to Build Structures</p>
+<p>Concept of Self-Assembly - From Primary Structure to Complex Structure</p>
+</td>
+<td>(<a href="1/lec35_12132006.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
