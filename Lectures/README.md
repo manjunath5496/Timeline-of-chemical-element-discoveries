@@ -6,7 +6,7 @@
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
 <li><a href="#course6">Integrated Chemical Engineering II</a></li>
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
-<li><a href="#course8">Neurotechnology in Action</a></li>
+<li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
 <li><a href="#course9">Brain Structure and Its Origins</a></li>
 <li><a href="#course10">Systems Neuroscience Lab</a></li>
 <li><a href="#course11">Developmental Neurobiology</a></li>
@@ -997,6 +997,57 @@
 </tbody>
 </table>
 </br>
+<h2 id="course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</h2>
 
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Course Overview, Enzyme Classification</td>
+<td headers="col3">(<a href="1/lecture1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Enzyme Catalysts: Review of Protein Chemistry, Enzyme Specificity</td>
+<td headers="col3">(<a href="1/lecture2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Lecture 3</em><br /><br />Non-kinetic Evaluation of Enzyme Performance, Review of Enzyme Kinetics<br /><br /><em>Lecture 4</em><br /><br />Enzyme Kinetics (cont.), pH and Temperature Effects, Enzyme Stability</td>
+<td headers="col3">(<a href="1/lecture3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Lecture 5<br /></em><br />Enzyme Inhibition and Toxicity<br /><br /><em>Lecture 6<br /></em><br />Enzyme Inhibition and Toxicity (cont.)</td>
+<td headers="col3">(<a href="1/lecture4.pdf">PDF 1</a>)<br /><br />(<a href="1/lecture5.pdf">PDF 2</a>)<br /><br />(<a href="1/lecture6.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Whole Cell Catalysts: When/Why, Cell Growth vs. Conversion</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Control of Protein Expression (Growth/Non-growth Associated, Catabolite Repression)<br /><br />Toxicity and Inhibition</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Lecture 9<br /></em><br />Engineering Solutions: Acidic/Basic Products, Exothermic Reactions, Enzyme Instability, Equilibrium Reactions<br /><br /><em>Lecture 10<br /></em><br />Substrate Solubility, Toxicity<br /><br /><em>Lecture 11</em><br /><br />Product Solubility, Toxicity<br /><br />Yield Improvement of Resolutions</td>
+<td headers="col3">(<a href="1/lecture9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2"><em>Lecture 12</em><br /><br />Process Design for Biocatalytic Processes: Purified Enzymes<br /><br /><em>Lecture 13</em><br /><br />Process Design (cont.): Whole Cells<br /><br /><em>Lecture 14</em><br /><br />Screening for New Catalysts</td>
+<td headers="col3">(<a href="1/lecture8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2"><em>Lecture 15</em><br /><br />Improving Catalyst Performance (Biological Solutions): Review of Molecular Biology<br /><br /><em>Lecture 16</em><br /><br />Cloning from Whole Cell Catalysts<br /><br /><em>Lecture 17</em><br /><br />Site-directed Mutagenesis<br /><br />Directed Evolution of Enzymes</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Presentations of Design/Development Reports</td>
+<td headers="col3">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
