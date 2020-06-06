@@ -3,7 +3,7 @@
 <li><a href="#course2">Chemical and Biological Reaction Engineering</a></li>
 <li><a href="#course3">Electrochemical Energy Systems</a></li>
 <li><a href="#course4">Separation Processes for Biochemical Products</a></li>
-<li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
+<li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
 <li><a href="#course6">Human Memory and Learning</a></li>
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
 <li><a href="#course8">Neurotechnology in Action</a></li>
@@ -808,3 +808,67 @@
 </tbody>
 </table>
 </br>
+<h2 id="course5">Process Dynamics, Operations, and Control</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LEC&nbsp;#</th>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td>Introduction to Processes and Systems</td>
+<td>Lesson 1 (<a href="1_systems.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td>Math Review</td>
+<td>Lesson 2 (<a href="2_math.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>3-7</td>
+<td>The Blending Tank</td>
+<td>Lesson 3 (<a href="3_blend_tank.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>8-13</td>
+<td>Two Tanks in Series</td>
+<td>Lesson 4 (<a href="4_tanksinseries.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>14, 16-17</td>
+<td>Operability of Processes</td>
+<td>Lesson 5 (<a href="5_operability.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>18-20</td>
+<td>
+<p>The Heated Tank</p>
+<p>(This really is a second Lesson 5.)</p>
+</td>
+<td>Lesson 5 (<a href="5_heated_tank.pdf">PDF</a>)&nbsp;&nbsp;</td>
+</tr>
+<tr class="row">
+<td>21-26</td>
+<td>The Exothermic Reactor</td>
+<td>Lesson 6 (<a href="6_exotherm_react.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>27-31</td>
+<td>Higher-order Overdamped Systems</td>
+<td>Lesson 7 (<a href="7_high_order.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>32-34, 36-39</td>
+<td>Cascade and Feed Forward Control Schemes</td>
+<td>Lesson 8 (<a href="8_cascade_and_ff.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
