@@ -436,3 +436,40 @@
 <p>WebLab Files: (<a href="weblab.zip">ZIP</a>) (The ZIP file contains: 2 .pdf files and 4 .txt files.)</p>
 
 </br>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ACTIVITIES</th>
+<th scope="col">PROBLEMS</th>
+<th scope="col">SOLUTIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Review for midterm 1</td>
+<td>Not applicable</td>
+<td>(<a href="ex1_rev_03212007.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm 1</td>
+<td>(<a href="midterm1.pdf">PDF</a>)</td>
+<td>(<a href="midterm1_key.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review problems for midterm 2</td>
+<td>(<a href="rev_exam2.pdf">PDF</a>)</td>
+<td>(<img src="https://ocw.mit.edu/images/inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="rev_exam2_soln.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Midterm 2</td>
+<td>(<a href="midterm2.pdf">PDF</a>)</td>
+<td>(<a href="midterm2_key.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Final exam</td>
+<td>(<a href="final_exam.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
