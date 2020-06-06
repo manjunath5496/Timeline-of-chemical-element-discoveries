@@ -8,7 +8,7 @@
 <li><a href="#course7">Integrated Chemical Engineering Topics I: Process Control by Design</a></li>
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
 <li><a href="#course9">Synthesis of Polymers</a></li>
-<li><a href="#course10">Systems Neuroscience Lab</a></li>
+<li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
 <li><a href="#course11">Developmental Neurobiology</a></li>
 <li><a href="#course12">Animal Behavior</a></li>
 <li><a href="#course13">Neural Coding and Perception of Sound</a></li>
@@ -1358,4 +1358,70 @@ Common Functionalization Approaches</td>
 </tbody>
 </table>
 </br>
+
+<h2 id="course10">Atmospheric Physics and Chemistry</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction, Properties of the Atmosphere (<a href="1/lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Combustion Sources and Stoichiometry</td>
+</tr>
+<tr class="row">
+<td>Chemical Thermodynamics/Kinetics</td>
+</tr>
+<tr class="alt-row">
+<td>Radiative Transfer and Photochemistry</td>
+</tr>
+<tr class="row">
+<td>Tropospheric Chemistry: CO</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: NOx and Ozone</td>
+</tr>
+<tr class="row">
+<td>Tropospheric Chemistry: HCHO and Ozone</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: Complex Hydrocarbons</td>
+</tr>
+<tr class="row">
+<td>Atmospheric Chemistry and Transport: Continuity Equation and Basic Structures (<a href="1/lec9.pdf">PDF 1</a>) (<a href="1/lec10.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Tropospheric Chemistry: Homogeneous Processes</td>
+</tr>
+<tr class="row">
+<td>Air Pollution Controls</td>
+</tr>
+<tr class="alt-row">
+<td>Integrated Assessment of Air Pollution</td>
+</tr>
+<tr class="row">
+<td>Atmospheric Transport Models: Numerical Integration (<a href="1/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Atmospheric Chemical Transport Models: Examples and Measurement Systems (<a href="1/lec18.pdf">PDF 1</a>) (<a href="1/lec19.pdf">PDF 2</a>) (<a href="1/lec20.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Inverse Methods: Optimal Estimation (<a href="1/lec21.pdf">PDF 1</a>) (<a href="1/lec22.pdf">PDF 2</a>) (<a href="1/lec23.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Inverse Methods: Examples (<a href="1/lec24.pdf">PDF 1</a>) (<a href="1/lec26.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Integrated Assessment of Climate Change (<a href="1/lec27.pdf">PDF - 1.4 MB</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 
