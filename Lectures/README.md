@@ -4,7 +4,7 @@
 <li><a href="#course3">Electrochemical Energy Systems</a></li>
 <li><a href="#course4">Separation Processes for Biochemical Products</a></li>
 <li><a href="#course5">Process Dynamics, Operations, and Control</a></li>
-<li><a href="#course6">Human Memory and Learning</a></li>
+<li><a href="#course6">Integrated Chemical Engineering II</a></li>
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
 <li><a href="#course8">Neurotechnology in Action</a></li>
 <li><a href="#course9">Brain Structure and Its Origins</a></li>
@@ -860,5 +860,56 @@
 </table>
 
 </br>
+<h2 id="course6">Integrated Chemical Engineering II</h2>
 
-
+<p>Read carefully the&nbsp;<em>Design Report Handout</em>&nbsp;(<a href="report_details.pdf">PDF</a>)</p>
+</br>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">DESIGN&nbsp;PROBLEMS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Ammonia Stripping (<a href="group_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>IGCC As a Way to Control Hg, NO<sub>x</sub>, and SO<sub>x</sub>&nbsp;(<a href="group_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Assessment of the IGCC Concept (<a href="group_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Amine Stripping (<a href="group_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Retrofitting Options for CO<sub>2</sub>&nbsp;Capture (<a href="group_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chemical Looping Combustion (<a href="group_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>CO<sub>2</sub>&nbsp;Liquefaction (<a href="group_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Oxyfiring (<a href="group_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Polygeneration (<a href="group_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Water Gas Shift Reaction (<a href="group_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Retrofitting of Existing Power Plants (<a href="group_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Chemical Looping Combustor (<a href="group_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Amine Stripping Alternatives (<a href="group_13.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
