@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Numerical Methods Applied to Chemical Engineering</a></li>
-<li><a href="#course2">Neural Basis of Learning and Memory</a></li>
+<li><a href="#course2">Chemical and Biological Reaction Engineering</a></li>
 <li><a href="#course3">Sensory Systems</a></li>
 <li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
 <li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
@@ -233,6 +233,206 @@
 </tbody>
 </table>
 </br>
+<h2 id="course2">Chemical and Biological Reaction Engineering</h2>
 
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Preliminaries and remembrance of things past. Reaction stoichiometry, lumped stoichiometries in complex systems such as bioconversions and cell growth (yields); extent of reaction, independence of reactions, measures of concentration. Single reactions and reaction networks, bioreaction pathways. (WHG) (<a href="lec01_02072007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The reaction rate and reaction mechanisms: Definition in terms of reacting compounds and reaction extent; rate laws, Arrhenius equation, elementary, reversible, non-elementary, catalytic reactions. (WHG) (<a href="lec02_02092007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and product formation in microbial growth; enzyme kinetics, Michaelis-Menten rate form. (KDW) (<a href="lec03_02142007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reaction mechanisms and rate laws: Reactive intermediates and steady state approximation in reaction mechanisms. Rate-limiting step. Chain reactions. Pyrolysis reactions. (WHG) (<a href="lec04_02162007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. Steady-state CSTR. (KDW) (<a href="lec05_02212007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Concentration that optimizes desired rate. Selectivity vs. Conversion. Combining reactors with separations. (WHG) (<a href="lec06_02232007_g.pdf">PDF</a>)</p>
+<p>Lecture 6 correction (<a href="lec06_correction.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Batch reactor: Equations, reactor sizing for constant volume and variable volume processes. (KDW) (<a href="lec07_02282007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The plug flow reactor. (WHG) (<a href="lec08_03022007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. How choice of reactor affects selectivity vs. conversion. (KDW) (<a href="lec09_03072007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series model. Combinations of ideal reactors. (KDW) (<a href="lec10_03092007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Non isothermal reactors. Equilibrium limitations, stability. Derivation of energy balances for ideal reactors; equilibrium conversion, adiabatic and nonadiabatic reactor operation. (WHG) (<a href="lec11_03142007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Data collection and analysis. Experimental methods for the determination of kinetic parameters of chemical and enzymatic reactions; determination of cell growth parameters; statistical analysis and model discrimination. (WHG) (<a href="lec12_03162007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-continuous fermentor operation. (KDW) (<a href="lec13_03212007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Kinetics of non-covalent bimolecular interactions. Significance; typical values and diffusion limit; approach to equilibrium; multivalency. (KDW) (<a href="lec14_04042007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gene expression and trafficking dynamics. Approach to steady state; receptor trafficking. (KDW) (<a href="lec15_04062007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of heterogeneous catalytic reactions; adsorption isotherms, derivation of rate laws; Langmuir-Hinshelwood kinetics. (WHG) (<a href="lec16_04112007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Mass transfer resistances. External diffusion effects. Non-porous packed beds and monoliths, immobilized cells. (WHG) (<a href="lec17_04132007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (KDW) (<a href="lec18_04182007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Oxygen transfer in fermentors. Applications of gas-liquid transport with reaction. (KDW) (<a href="lec19_04202007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Reaction and diffusion in porous catalysts. Effective diffusivity, internal and overall effectiveness factor, Thiele modulus, apparent reaction rates. (KDW) (<a href="lec20_04272007_w.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG) (<a href="lec21_05022007_g.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Combined internal and external transport resistances. (WHG) (<a href="lec22_05042007_g.pdf">PDF</a>)</p>
+<p>Biot numbers review. (<a href="biot_numbers.pdf">PDF</a>) (Courtesy of David Adrian. Used with permission.)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Pulling it all together; applications to energy/chemicals industry. Presentation of current research. (WHG)</td>
+</tr>
+<tr class="alt-row">
+<td>Pulling it all together; applications to bioengineering and medicine. Presentation of current research. (KDW)</td>
+</tr>
+<tr class="row">
+<td>Course review. (WHG) (<a href="lec25_05162007_g.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SOLUTIONS</th>
+<th scope="col">ARCHIVES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>
+<p>Problem set 1 (<a href="pset01.pdf">PDF</a>)</p>
+<p>vinylethene1.txt (<a href="vinylethene1.txt">TXT</a>)</p>
+<p>vinylethene2.txt (<a href="vinylethene2.txt">TXT</a>)</p>
+<p>vinylethene3.txt (<a href="vinylethene3.txt">TXT</a>)</p>
+</td>
+<td>
+<p>(<a href="pset01_soln.pdf">PDF</a>)</p>
+<p>hwk1prob1.m (<a href="hwk1prob1.m">M</a>)</p>
+<p>hwk1prob2.m (<a href="hwk1prob2.m">M</a>)</p>
+</td>
+<td>(<a href="pset01.zip">ZIP</a>) (The ZIP file contains: 3 .txt files, 2 .pdf files, and 2 .m files.)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 2 (<a href="pset02.pdf">PDF</a>)</td>
+<td>(<a href="pset02_soln.pdf">PDF</a>)</td>
+<td>(<a href="pset02.zip">ZIP</a>) (The ZIP file contains: pset02.pdf and pset02_soln.pdf.)</td>
+</tr>
+<tr class="row">
+<td>Problem set 3 (<a href="pset03.pdf">PDF</a>)</td>
+<td>
+<p>(<a href="pset03_soln.pdf">PDF</a>)</p>
+<p>hw3prob3.m (<a href="hw3prob3.m">M</a>)</p>
+</td>
+<td>(<a href="pset03.zip">ZIP</a>) (The ZIP file contains: pset03.pdf, hw3prob3.m, and pset03_soln.pdf.)</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 4 (<a href="pset04.pdf">PDF</a>)</td>
+<td>Solution to problem 1 (<a href="pset04_01_soln.pdf">PDF</a>)</td>
+<td>(<a href="pset04.zip">ZIP</a>) (The ZIP file contains: pset04.pdf and pset04_01_soln.pdf.)</td>
+</tr>
+<tr class="row">
+<td>Problem set 5
+<p>Fogler problems:</p>
+<p>2-5, parts a, b, f, g</p>
+<p>6-6, parts a-e</p>
+<p>13-19, parts a-h</p>
+<p>14-3, parts a-b</p>
+<p>Additional information (<a href="additional_info.pdf">PDF</a>)</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem set 6 (<a href="pset06.pdf">PDF</a>)</p>
+<p>Amendment to the question: What magnitude of temperature perturbation would lead to a shift to a hotter steady state (ignition)?</p>
+<p>Batch reactor balances (<a href="batch_reactor.pdf">PDF</a>) (Courtesy of David Adrian. Used with permission.)</p>
+</td>
+<td>
+<p>(<a href="pset06_soln.pdf">PDF</a>)</p>
+<p>hw6p1.m (<a href="hw6p1.m">M</a>)</p>
+<p>stabilitydiagram.m (<a href="stabilitydiagram.m">M</a>)</p>
+<p>oneweek.fig (<a href="oneweek.fig">FIG - 1.7 MB</a>)</p>
+</td>
+<td>(<a href="pset06.zip">ZIP - 1.9 MB</a>) (The ZIP file contains: 3 .pdf files, 2 .m files, and 1 .fig file.)</td>
+</tr>
+<tr class="row">
+<td>Problem set 7 (<a href="pset07.pdf">PDF</a>)</td>
+<td>(<a href="pset07_soln.pdf">PDF</a>)</td>
+<td>(<a href="pset07.zip">ZIP</a>) (The ZIP file contains: pset07.pdf and pset07_soln.pdf.)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Problem set 8</p>
+<p>Fogler problems:</p>
+<p>10-4, all parts</p>
+<p>11-5, all parts</p>
+<p>There is a typo in the problem statement for 11-5. The length of the reactor pipe should be 20 cm, not 20 m. Also, please use the following viscosity and diffusivity data:</p>
+<p>At 500<sup>o</sup>C, the viscosity of hydrogen is 0.015 centipoise and the viscosities of cyclohexane and benzene are both 0.1 centipoise. Assume the diffusivity of all species (D<sub>ab</sub>) is 0.857 cm<sup>2</sup>/s at the reactor T and P</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>
+<p>Problem set 9</p>
+<p>Fogler problems:</p>
+<p>12-4</p>
+<p>12-6</p>
+<p>(For those with the 3rd edition of Fogler, the problems numbers are the same as in the 4th edition.)</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Problem set 10 (<a href="pset10.pdf">PDF</a>)</td>
+<td>(<a href="pset10_soln.pdf">PDF</a>)</td>
+<td>(<a href="pset10.zip">ZIP</a>) (The ZIP file contains: pset10.pdf and pset10_soln.pdf.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Pre-lab Assignment: (<a href="2007_prelab.pdf">PDF</a>)</p>
+<p>Data: Run 1 (<a href="run1.txt">TXT</a>); Run 2 (<a href="run2.txt">TXT</a>); Run 3 (<a href="run3.txt">TXT</a>); Run 4 (<a href="run4.txt">TXT</a>)</p>
+<p>Post-lab Assignment: (<a href="2007_postlab.pdf">PDF</a>)</p>
+<p>WebLab Files: (<a href="weblab.zip">ZIP</a>) (The ZIP file contains: 2 .pdf files and 4 .txt files.)</p>
 
+</br>
