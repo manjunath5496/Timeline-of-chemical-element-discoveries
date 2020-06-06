@@ -2,7 +2,7 @@
 <li><a href="#course1">Numerical Methods Applied to Chemical Engineering</a></li>
 <li><a href="#course2">Chemical and Biological Reaction Engineering</a></li>
 <li><a href="#course3">Electrochemical Energy Systems</a></li>
-<li><a href="#course4">Brain Mechanisms for Hearing and Speech</a></li>
+<li><a href="#course4">Separation Processes for Biochemical Products</a></li>
 <li><a href="#course5">Statistics for Brain and Cognitive Science</a></li>
 <li><a href="#course6">Human Memory and Learning</a></li>
 <li><a href="#course7">Neurology, Neuropsychology, and Neurobiology of Aging</a></li>
@@ -753,6 +753,57 @@
 <tr class="alt-row">
 <td><a href="MIT10_626S14_Final_Exam.pdf">2014 Final Exam (PDF)</a></td>
 <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course4">Separation Processes for Biochemical Products</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th id="tbl805id0_1" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="tbl805id0_1">Strategies for Biochemical Process Synthesis</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Biochemical Processing Overview (<a href="lecture_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Cell Disruption (<a href="lecture_3.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Solid-Liquid Separation: Centrifugation (<a href="lecture_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Chromatography</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Protein Refolding</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Solid-Liquid Separation: Filtration (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="lecture_7_cooney.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Membrane and Filtration Applications</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Rotary Vacuum Filtration (<a href="lecture_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Process Synthesis, Analysis and Simulation&nbsp;(<a href="lecture_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Process Simulation</td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl805id0_1">Case Study in Innovation</td>
+</tr>
+<tr class="row">
+<td headers="tbl805id0_1">Process Validation</td>
 </tr>
 </tbody>
 </table>
