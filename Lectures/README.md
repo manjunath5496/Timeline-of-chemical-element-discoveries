@@ -9,38 +9,8 @@
 <li><a href="#course8">Integrated Chemical Engineering Topics I: Introduction to Biocatalysis</a></li>
 <li><a href="#course9">Synthesis of Polymers</a></li>
 <li><a href="#course10">Atmospheric Physics and Chemistry</a></li>
-<li><a href="#course11">Developmental Neurobiology</a></li>
-<li><a href="#course12">Animal Behavior</a></li>
-<li><a href="#course13">Neural Coding and Perception of Sound</a></li>
-<li><a href="#course14">Introduction to Computational Neuroscience</a></li>
-<li><a href="#course15">Neural Plasticity in Learning and Development</a></li>
-<li><a href="#course16">Sensation And Perception</a></li>
-<li><a href="#course17">Parkinson's Disease Workshop</a></li>
-<li><a href="#course18">Scene Understanding Symposium</a></li>
-<li><a href="#course19">Statistical Learning Theory and Applications</a></li>
-<li><a href="#course20">Systems Biology</a></li>
-<li><a href="#course21">Language Acquisition </a></li>
-<li><a href="#course22">The Lexicon and Its Features</a></li>
-<li><a href="#course23">Language Processing</a></li>
-<li><a href="#course24">Lab in Psycholinguistics</a></li>
-<li><a href="#course25">Language Acquisition I</a></li>
-<li><a href="#course26">Natural Language and the Computer Representation of Knowledge</a></li>
-<li><a href="#course27">Laboratory in Visual Cognition</a></li>
-<li><a href="#course28">Introduction to Neural Networks</a></li>
-<li><a href="#course29">Cognitive Processes</a></li>
-<li><a href="#course30">Computational Cognitive Science</a></li>
-<li><a href="#course31">Affect: Neurobiological, Psychological and Sociocultural Counterparts of "Feelings"</a></li>  
-<li><a href="#course32">Social Psychology</a></li> 
-<li><a href="#course33">Infant and Early Childhood Cognition</a></li>
-<li><a href="#course34">Pattern Recognition for Machine Vision</a></li>  
-<li><a href="#course35">Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders</a></li>  
- <li><a href="#course36">Special Topics: Social Animals</a></li>
-<li><a href="#course37">Experimental Methods of Adjustable Tetrode Array Neurophysiology</a></li>  
-<li><a href="#course38">Neuropharmacology</a></li>  
-<li><a href="#course39">Language and Mind</a></li>   
- <li><a href="#course40">Statistics and Visualization for Data Analysis and Inference</a></li> 
- <li><a href="#course41">Brains, Minds and Machines Summer Course</a></li> 
- 
+<li><a href="#course11">Computational Quantum Mechanics of Molecular and Extended Systems</a></li>
+
 </ul>
 <p>&nbsp;</p>
 <h2 id="course1">Numerical Methods Applied to Chemical Engineering</h2>
@@ -1422,6 +1392,88 @@ Common Functionalization Approaches</td>
 </tbody>
 </table>
 </br>
+<h2 id="course11">Computational Quantum Mechanics of Molecular and Extended Systems</h2>
 
-
-
+<table class="tablewidth50" summary="See table 
+caption for summary.">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction, Textbook and Notes, Many Body Schr&ouml;dinger Equation, Density Functional Theory, Examples and Inspiration (<a href="Lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Electronic Spin, Spin Orbitals, Molecular Orbital Theory, Valence Bond Theory (<a href="Lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hartree-Fock Theory, Matrix Manipulations (<a href="Lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Mathematical Underpinnings, Dirac Notation, G03 Calculations (<a href="Lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Electronic Classroom Tutorial</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Solution of Hartree-Fock Equations, Variational Principle, Mean Field Theory (<a href="Lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Solution of H-F Equations (cont.), Meaning of Eigenvalues, Basis Sets Introduction (<a href="Lec7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Gaussian Basis Sets (<a href="Lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Correlation, CI, MP Perturbation Theories (<a href="Lec9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Density Functional Theory (DFT) - Introduction (<a href="Lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">DFT: Solution of Kohn-Sham Equations and Exchange-Correlation Functionals (<a href="Lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Coupled-Cluster Theories, QCISD, G1, G2 (<a href="Lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">G1, G2 (cont.), Comparison, NCSA Teams, Projects (<a href="Lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">The Plane-wave Pseudopotential Method (PWPP) (<a href="Lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">PWPP (cont.), Introduction to Classical Molecular Dynamics (MD)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Car-Parrinello Molecular Dynamics - Method (<a href="Lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Running the Car-Parrinello Code (<a href="Lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Car-Parrinello Molecular Dynamics - Applications (<a href="Lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Embedding, Reaction Field Methods, Solvation, Combined QM/MM (<a href="Lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Exploring Complex Free Energy Landscapes - Reactivity (<a href="Lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computing Reaction Rate Constants (<a href="Lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Student Final Project Presentations I</td>
+</tr>
+<tr class="row">
+<td headers="col2">Student Final Project Presentations II</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Design of Selective, Sulfur Resistant, Oxidation Automotive Catalysts (Presented by Course Teaching Assistant) (<a href="lec24.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
